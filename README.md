@@ -6,3 +6,5 @@ A simple procedure that can save hours of data processing and file handling. The
 ✔ Rename consistently and move to a subfolder for processing 
 
 ✔ Simple processing and export as one .csv file
+
+This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!
