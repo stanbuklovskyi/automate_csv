@@ -17,4 +17,4 @@ A simple procedure that can save hours of data processing and file handling. The
 
 
 
-## This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!✌ 
+This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!✌ 
