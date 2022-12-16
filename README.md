@@ -7,4 +7,12 @@ A simple procedure that can save hours of data processing and file handling. The
 
 ✔ Simple processing and export as one .csv file
 
+## Tech Stack
+
+**Programming Language:** Python 🐍
+
+**Environment:** Jupyter Notebook
+
+**Libraries:** Numpy, Pandas, OS
+
 This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!
