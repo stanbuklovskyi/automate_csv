@@ -15,6 +15,11 @@ A simple procedure that can save hours of data processing and file handling. The
 
 **Libraries:** Numpy, Pandas, OS
 
+## How to use
+
+ - Put the file in you working directory with multiple data files
+ - Example data files are included
+
 ----------------------------------------------------------------
 
 This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!✌ 
