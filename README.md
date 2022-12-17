@@ -19,6 +19,11 @@ A simple procedure that can save hours of data processing and file handling. The
 
  - Put the file in you working directory with multiple data files
  - Example data files are included
+ 
+ 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ----------------------------------------------------------------
 
