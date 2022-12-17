@@ -25,6 +25,10 @@ A simple procedure that can save hours of data processing and file handling. The
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Contributing
+
+Contributions are always welcome! Just hit me via the email or LinkedIn mentined above. 
+
 ----------------------------------------------------------------
 
 This is far from perfect but it's a great and practical introduction to automation of repetative tasks in Python. Enjoy!✌ 
